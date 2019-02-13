@@ -15,7 +15,6 @@ include(hunter_user_error)
 
 # NOTE: no names with spaces!
 
-hunter_default_version(hello VERSION 0.1.0)
 hunter_default_version(ARM_NEON_2_x86_SSE VERSION 1.0.0-p0)
 hunter_default_version(AllTheFlopsThreads VERSION 0.1-p0)
 hunter_default_version(Android-Apk VERSION 1.1.14)
@@ -270,6 +269,7 @@ hunter_default_version(h3 VERSION 3.0.7)
 hunter_default_version(half VERSION 1.1.0-p1)
 hunter_default_version(harfbuzz VERSION 1.7.6-p0)
 hunter_default_version(hdf5 VERSION 1.8.15-p1)
+hunter_default_version(hello VERSION 0.1.0)
 hunter_default_version(highwayhash VERSION 0.0.0)
 hunter_default_version(http-parser VERSION 2.8.0)
 hunter_default_version(ice VERSION 1.0.8)
